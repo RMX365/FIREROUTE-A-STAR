@@ -1,0 +1,151 @@
+﻿escenario_id,escenario,prueba,origen,destino,ruta_encontrada,costo,nodos_explorados,tiempo_ms,longitud_ruta,mapa_utilizado,algoritmo_utilizado,semilla
+trafico_normal,Tráfico normal,1,N0,N1,True,45.0,2,0.0331,2,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_normal,Tráfico normal,2,N0,N2,True,100.0,3,0.0129,3,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_normal,Tráfico normal,3,N0,N6,True,103.0,4,0.0119,3,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_normal,Tráfico normal,4,N1,N3,True,100.0,3,0.0095,3,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_normal,Tráfico normal,5,N1,N4,True,90.0,4,0.0101,3,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_normal,Tráfico normal,6,N1,N7,True,113.0,4,0.0127,3,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_normal,Tráfico normal,7,N10,N1,True,113.0,4,0.0126,3,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_normal,Tráfico normal,8,N10,N11,True,45.0,2,0.0057,2,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_normal,Tráfico normal,9,N10,N4,True,113.0,4,0.011,3,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_normal,Tráfico normal,10,N11,N8,True,145.0,5,0.0134,4,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_normal,Tráfico normal,11,N11,N9,True,100.0,3,0.0069,3,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_normal,Tráfico normal,12,N2,N0,True,100.0,3,0.0085,3,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_normal,Tráfico normal,13,N3,N1,True,100.0,3,0.0061,3,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_normal,Tráfico normal,14,N3,N2,True,45.0,2,0.0039,2,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_normal,Tráfico normal,15,N3,N7,True,55.0,2,0.0036,2,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_normal,Tráfico normal,16,N4,N0,True,45.0,2,0.0064,2,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_normal,Tráfico normal,17,N4,N1,True,90.0,4,0.0103,3,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_normal,Tráfico normal,18,N4,N11,True,158.0,7,0.0161,4,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_normal,Tráfico normal,19,N5,N7,True,100.0,3,0.0119,3,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_normal,Tráfico normal,20,N6,N1,True,58.0,2,0.008,2,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_normal,Tráfico normal,21,N6,N7,True,55.0,2,0.0077,2,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_normal,Tráfico normal,22,N8,N1,True,145.0,6,0.0133,4,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_normal,Tráfico normal,23,N8,N6,True,135.0,6,0.0128,4,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_normal,Tráfico normal,24,N9,N5,True,45.0,2,0.0316,2,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_normal,Tráfico normal,25,N9,N6,True,90.0,4,0.0185,3,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_alto,Tráfico alto,1,N0,N1,True,62.265,2,0.0099,2,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_alto,Tráfico alto,2,N0,N2,True,160.3183,6,0.0195,3,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_alto,Tráfico alto,3,N0,N6,True,126.3542,5,0.0143,3,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_alto,Tráfico alto,4,N1,N3,True,143.05329999999998,4,0.0125,3,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_alto,Tráfico alto,5,N1,N4,True,108.3003,3,0.0085,3,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_alto,Tráfico alto,6,N1,N7,True,156.05329999999998,4,0.0133,3,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_alto,Tráfico alto,7,N10,N1,True,160.0672,7,0.0204,3,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_alto,Tráfico alto,8,N10,N11,True,45.0,2,0.0127,2,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_alto,Tráfico alto,9,N10,N4,True,151.6476,6,0.0176,3,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_alto,Tráfico alto,10,N11,N8,True,173.2088,6,0.0167,4,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_alto,Tráfico alto,11,N11,N9,True,128.2088,5,0.0126,3,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_alto,Tráfico alto,12,N2,N0,True,152.5536,5,0.013,3,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_alto,Tráfico alto,13,N3,N1,True,165.41629999999998,4,0.0083,3,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_alto,Tráfico alto,14,N3,N2,True,76.163,2,0.0036,2,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_alto,Tráfico alto,15,N3,N7,True,55.0,2,0.0037,2,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_alto,Tráfico alto,16,N4,N0,True,45.0,2,0.0062,2,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_alto,Tráfico alto,17,N4,N1,True,107.265,4,0.0112,3,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_alto,Tráfico alto,18,N4,N11,True,158.0,7,0.0191,4,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_alto,Tráfico alto,19,N5,N7,True,135.0481,5,0.0165,3,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_alto,Tráfico alto,20,N6,N1,True,105.0672,3,0.0102,2,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_alto,Tráfico alto,21,N6,N7,True,90.0481,2,0.0082,2,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_alto,Tráfico alto,22,N8,N1,True,162.265,6,0.0121,4,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_alto,Tráfico alto,23,N8,N6,True,155.0,5,0.0121,4,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_alto,Tráfico alto,24,N9,N5,True,75.2133,2,0.0064,2,grafo_de_juguete,algoritmos/a_star.py,42
+trafico_alto,Tráfico alto,25,N9,N6,True,120.2133,4,0.0105,3,grafo_de_juguete,algoritmos/a_star.py,42
+calle_bloqueada,Calle bloqueada,1,N0,N1,True,45.0,2,0.0067,2,grafo_de_juguete,algoritmos/a_star.py,42
+calle_bloqueada,Calle bloqueada,2,N0,N2,True,100.0,3,0.0079,3,grafo_de_juguete,algoritmos/a_star.py,42
+calle_bloqueada,Calle bloqueada,3,N0,N6,True,103.0,4,0.0112,3,grafo_de_juguete,algoritmos/a_star.py,42
+calle_bloqueada,Calle bloqueada,4,N1,N3,True,100.0,3,0.0093,3,grafo_de_juguete,algoritmos/a_star.py,42
+calle_bloqueada,Calle bloqueada,5,N1,N4,True,90.0,4,0.0105,3,grafo_de_juguete,algoritmos/a_star.py,42
+calle_bloqueada,Calle bloqueada,6,N1,N7,True,113.0,4,0.012,3,grafo_de_juguete,algoritmos/a_star.py,42
+calle_bloqueada,Calle bloqueada,7,N10,N1,True,113.0,4,0.0125,3,grafo_de_juguete,algoritmos/a_star.py,42
+calle_bloqueada,Calle bloqueada,8,N10,N11,True,45.0,2,0.0059,2,grafo_de_juguete,algoritmos/a_star.py,42
+calle_bloqueada,Calle bloqueada,9,N10,N4,True,113.0,4,0.0113,3,grafo_de_juguete,algoritmos/a_star.py,42
+calle_bloqueada,Calle bloqueada,10,N11,N8,True,145.0,5,0.0142,4,grafo_de_juguete,algoritmos/a_star.py,42
+calle_bloqueada,Calle bloqueada,11,N11,N9,True,100.0,3,0.0074,3,grafo_de_juguete,algoritmos/a_star.py,42
+calle_bloqueada,Calle bloqueada,12,N2,N0,True,100.0,3,0.0095,3,grafo_de_juguete,algoritmos/a_star.py,42
+calle_bloqueada,Calle bloqueada,13,N3,N1,True,100.0,3,0.0097,3,grafo_de_juguete,algoritmos/a_star.py,42
+calle_bloqueada,Calle bloqueada,14,N3,N2,True,45.0,2,0.0038,2,grafo_de_juguete,algoritmos/a_star.py,42
+calle_bloqueada,Calle bloqueada,15,N3,N7,True,55.0,2,0.004,2,grafo_de_juguete,algoritmos/a_star.py,42
+calle_bloqueada,Calle bloqueada,16,N4,N0,True,45.0,2,0.0063,2,grafo_de_juguete,algoritmos/a_star.py,42
+calle_bloqueada,Calle bloqueada,17,N4,N1,True,90.0,4,0.011,3,grafo_de_juguete,algoritmos/a_star.py,42
+calle_bloqueada,Calle bloqueada,18,N4,N11,True,158.0,7,0.0167,4,grafo_de_juguete,algoritmos/a_star.py,42
+calle_bloqueada,Calle bloqueada,19,N5,N7,True,100.0,3,0.0124,3,grafo_de_juguete,algoritmos/a_star.py,42
+calle_bloqueada,Calle bloqueada,20,N6,N1,True,58.0,2,0.0075,2,grafo_de_juguete,algoritmos/a_star.py,42
+calle_bloqueada,Calle bloqueada,21,N6,N7,True,55.0,2,0.0074,2,grafo_de_juguete,algoritmos/a_star.py,42
+calle_bloqueada,Calle bloqueada,22,N8,N1,True,145.0,6,0.0136,4,grafo_de_juguete,algoritmos/a_star.py,42
+calle_bloqueada,Calle bloqueada,23,N8,N6,True,135.0,6,0.0138,4,grafo_de_juguete,algoritmos/a_star.py,42
+calle_bloqueada,Calle bloqueada,24,N9,N5,True,45.0,2,0.0065,2,grafo_de_juguete,algoritmos/a_star.py,42
+calle_bloqueada,Calle bloqueada,25,N9,N6,True,90.0,4,0.0124,3,grafo_de_juguete,algoritmos/a_star.py,42
+sentido_unico,Sentido único,1,N0,N1,True,45.0,2,0.0082,2,grafo_de_juguete,algoritmos/a_star.py,42
+sentido_unico,Sentido único,2,N0,N2,True,100.0,3,0.009,3,grafo_de_juguete,algoritmos/a_star.py,42
+sentido_unico,Sentido único,3,N0,N6,True,103.0,4,0.0119,3,grafo_de_juguete,algoritmos/a_star.py,42
+sentido_unico,Sentido único,4,N1,N3,True,100.0,3,0.0083,3,grafo_de_juguete,algoritmos/a_star.py,42
+sentido_unico,Sentido único,5,N1,N4,True,90.0,3,0.0083,3,grafo_de_juguete,algoritmos/a_star.py,42
+sentido_unico,Sentido único,6,N1,N7,True,113.0,4,0.0127,3,grafo_de_juguete,algoritmos/a_star.py,42
+sentido_unico,Sentido único,7,N10,N1,True,113.0,4,0.0156,3,grafo_de_juguete,algoritmos/a_star.py,42
+sentido_unico,Sentido único,8,N10,N11,True,45.0,2,0.0065,2,grafo_de_juguete,algoritmos/a_star.py,42
+sentido_unico,Sentido único,9,N10,N4,True,113.0,4,0.0122,3,grafo_de_juguete,algoritmos/a_star.py,42
+sentido_unico,Sentido único,10,N11,N8,True,145.0,5,0.0155,4,grafo_de_juguete,algoritmos/a_star.py,42
+sentido_unico,Sentido único,11,N11,N9,True,100.0,3,0.0082,3,grafo_de_juguete,algoritmos/a_star.py,42
+sentido_unico,Sentido único,12,N2,N0,True,100.0,3,0.0083,3,grafo_de_juguete,algoritmos/a_star.py,42
+sentido_unico,Sentido único,13,N3,N1,True,168.0,4,0.0114,4,grafo_de_juguete,algoritmos/a_star.py,42
+sentido_unico,Sentido único,14,N3,N2,True,155.0,4,0.011,4,grafo_de_juguete,algoritmos/a_star.py,42
+sentido_unico,Sentido único,15,N3,N7,True,55.0,2,0.0028,2,grafo_de_juguete,algoritmos/a_star.py,42
+sentido_unico,Sentido único,16,N4,N0,True,113.0,3,0.0125,3,grafo_de_juguete,algoritmos/a_star.py,42
+sentido_unico,Sentido único,17,N4,N1,True,110.0,3,0.0105,3,grafo_de_juguete,algoritmos/a_star.py,42
+sentido_unico,Sentido único,18,N4,N11,True,158.0,7,0.0183,4,grafo_de_juguete,algoritmos/a_star.py,42
+sentido_unico,Sentido único,19,N5,N7,True,100.0,3,0.0136,3,grafo_de_juguete,algoritmos/a_star.py,42
+sentido_unico,Sentido único,20,N6,N1,True,58.0,2,0.0088,2,grafo_de_juguete,algoritmos/a_star.py,42
+sentido_unico,Sentido único,21,N6,N7,True,55.0,2,0.0086,2,grafo_de_juguete,algoritmos/a_star.py,42
+sentido_unico,Sentido único,22,N8,N1,True,145.0,5,0.014,4,grafo_de_juguete,algoritmos/a_star.py,42
+sentido_unico,Sentido único,23,N8,N6,True,135.0,6,0.0132,4,grafo_de_juguete,algoritmos/a_star.py,42
+sentido_unico,Sentido único,24,N9,N5,True,45.0,2,0.0065,2,grafo_de_juguete,algoritmos/a_star.py,42
+sentido_unico,Sentido único,25,N9,N6,True,90.0,4,0.0136,3,grafo_de_juguete,algoritmos/a_star.py,42
+obstaculos,Obstáculos,1,N0,N1,True,45.0,2,0.0068,2,grafo_de_juguete,algoritmos/a_star.py,42
+obstaculos,Obstáculos,2,N0,N2,True,148.0,6,0.0167,4,grafo_de_juguete,algoritmos/a_star.py,42
+obstaculos,Obstáculos,3,N0,N6,True,103.0,3,0.0069,3,grafo_de_juguete,algoritmos/a_star.py,42
+obstaculos,Obstáculos,4,N1,N3,True,148.0,6,0.0177,4,grafo_de_juguete,algoritmos/a_star.py,42
+obstaculos,Obstáculos,5,N1,N4,True,90.0,4,0.0107,3,grafo_de_juguete,algoritmos/a_star.py,42
+obstaculos,Obstáculos,6,N1,N7,True,161.0,8,0.0186,4,grafo_de_juguete,algoritmos/a_star.py,42
+obstaculos,Obstáculos,7,N10,N1,True,113.0,3,0.0084,3,grafo_de_juguete,algoritmos/a_star.py,42
+obstaculos,Obstáculos,8,N10,N11,True,45.0,2,0.0043,2,grafo_de_juguete,algoritmos/a_star.py,42
+obstaculos,Obstáculos,9,N10,N4,True,155.0,5,0.0152,4,grafo_de_juguete,algoritmos/a_star.py,42
+obstaculos,Obstáculos,10,N11,N8,True,213.0,10,0.0206,5,grafo_de_juguete,algoritmos/a_star.py,42
+obstaculos,Obstáculos,11,N11,N9,True,148.0,6,0.016,4,grafo_de_juguete,algoritmos/a_star.py,42
+obstaculos,Obstáculos,12,N2,N0,True,148.0,6,0.0168,4,grafo_de_juguete,algoritmos/a_star.py,42
+obstaculos,Obstáculos,13,N3,N1,True,148.0,5,0.0119,4,grafo_de_juguete,algoritmos/a_star.py,42
+obstaculos,Obstáculos,14,N3,N2,True,45.0,2,0.0041,2,grafo_de_juguete,algoritmos/a_star.py,42
+obstaculos,Obstáculos,15,N3,N7,True,55.0,2,0.0038,2,grafo_de_juguete,algoritmos/a_star.py,42
+obstaculos,Obstáculos,16,N4,N0,True,113.0,3,0.0105,3,grafo_de_juguete,algoritmos/a_star.py,42
+obstaculos,Obstáculos,17,N4,N1,True,110.0,3,0.0103,3,grafo_de_juguete,algoritmos/a_star.py,42
+obstaculos,Obstáculos,18,N4,N11,True,158.0,7,0.0152,4,grafo_de_juguete,algoritmos/a_star.py,42
+obstaculos,Obstáculos,19,N5,N7,True,148.0,8,0.0178,4,grafo_de_juguete,algoritmos/a_star.py,42
+obstaculos,Obstáculos,20,N6,N1,True,58.0,2,0.0079,2,grafo_de_juguete,algoritmos/a_star.py,42
+obstaculos,Obstáculos,21,N6,N7,True,103.0,5,0.0121,3,grafo_de_juguete,algoritmos/a_star.py,42
+obstaculos,Obstáculos,22,N8,N1,True,145.0,4,0.0113,4,grafo_de_juguete,algoritmos/a_star.py,42
+obstaculos,Obstáculos,23,N8,N6,True,135.0,5,0.013,4,grafo_de_juguete,algoritmos/a_star.py,42
+obstaculos,Obstáculos,24,N9,N5,True,45.0,2,0.0052,2,grafo_de_juguete,algoritmos/a_star.py,42
+obstaculos,Obstáculos,25,N9,N6,True,90.0,4,0.0113,3,grafo_de_juguete,algoritmos/a_star.py,42
+zona_incierta,Zona incierta,1,N0,N1,True,64.6512,2,0.0072,2,grafo_de_juguete,algoritmos/a_star.py,42
+zona_incierta,Zona incierta,2,N0,N2,True,148.6395,5,0.0167,3,grafo_de_juguete,algoritmos/a_star.py,42
+zona_incierta,Zona incierta,3,N0,N6,True,117.3155,5,0.0138,3,grafo_de_juguete,algoritmos/a_star.py,42
+zona_incierta,Zona incierta,4,N1,N3,True,128.98829999999998,4,0.0137,3,grafo_de_juguete,algoritmos/a_star.py,42
+zona_incierta,Zona incierta,5,N1,N4,True,90.0,4,0.0119,3,grafo_de_juguete,algoritmos/a_star.py,42
+zona_incierta,Zona incierta,6,N1,N7,True,141.98829999999998,5,0.0197,3,grafo_de_juguete,algoritmos/a_star.py,42
+zona_incierta,Zona incierta,7,N10,N1,True,113.0,4,0.0143,3,grafo_de_juguete,algoritmos/a_star.py,42
+zona_incierta,Zona incierta,8,N10,N11,True,45.0,2,0.0069,2,grafo_de_juguete,algoritmos/a_star.py,42
+zona_incierta,Zona incierta,9,N10,N4,True,113.0,4,0.013,3,grafo_de_juguete,algoritmos/a_star.py,42
+zona_incierta,Zona incierta,10,N11,N8,True,145.0,5,0.0154,4,grafo_de_juguete,algoritmos/a_star.py,42
+zona_incierta,Zona incierta,11,N11,N9,True,100.0,3,0.0084,3,grafo_de_juguete,algoritmos/a_star.py,42
+zona_incierta,Zona incierta,12,N2,N0,True,100.0,3,0.0103,3,grafo_de_juguete,algoritmos/a_star.py,42
+zona_incierta,Zona incierta,13,N3,N1,True,100.0,3,0.0073,3,grafo_de_juguete,algoritmos/a_star.py,42
+zona_incierta,Zona incierta,14,N3,N2,True,45.0,2,0.0042,2,grafo_de_juguete,algoritmos/a_star.py,42
+zona_incierta,Zona incierta,15,N3,N7,True,55.0,2,0.0042,2,grafo_de_juguete,algoritmos/a_star.py,42
+zona_incierta,Zona incierta,16,N4,N0,True,45.0,2,0.0069,2,grafo_de_juguete,algoritmos/a_star.py,42
+zona_incierta,Zona incierta,17,N4,N1,True,109.6512,4,0.012,3,grafo_de_juguete,algoritmos/a_star.py,42
+zona_incierta,Zona incierta,18,N4,N11,True,158.0,7,0.0199,4,grafo_de_juguete,algoritmos/a_star.py,42
+zona_incierta,Zona incierta,19,N5,N7,True,117.9789,4,0.0149,3,grafo_de_juguete,algoritmos/a_star.py,42
+zona_incierta,Zona incierta,20,N6,N1,True,85.0801,2,0.0096,2,grafo_de_juguete,algoritmos/a_star.py,42
+zona_incierta,Zona incierta,21,N6,N7,True,72.9789,2,0.0095,2,grafo_de_juguete,algoritmos/a_star.py,42
+zona_incierta,Zona incierta,22,N8,N1,True,164.65120000000002,6,0.0157,4,grafo_de_juguete,algoritmos/a_star.py,42
+zona_incierta,Zona incierta,23,N8,N6,True,154.7794,5,0.0133,4,grafo_de_juguete,algoritmos/a_star.py,42
+zona_incierta,Zona incierta,24,N9,N5,True,64.7794,2,0.0075,2,grafo_de_juguete,algoritmos/a_star.py,42
+zona_incierta,Zona incierta,25,N9,N6,True,109.7794,3,0.0119,3,grafo_de_juguete,algoritmos/a_star.py,42
